@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+PyMuPDF
+python-multipart
+pymongo
+motor
+dotenv
+huggingface_hub
